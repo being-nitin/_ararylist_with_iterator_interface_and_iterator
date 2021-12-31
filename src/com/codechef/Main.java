@@ -22,4 +22,5 @@ public class Main {
 // iterator interface has three methods
 /*
 1. hasNext() returns true if iterator has more elements
+2. Next() returns the element and moves the cursor pointer to the next element:
  */
