@@ -23,4 +23,5 @@ public class Main {
 /*
 1. hasNext() returns true if iterator has more elements
 2. Next() returns the element and moves the cursor pointer to the next element:
+3. until there will be an element it will iterate:
  */
