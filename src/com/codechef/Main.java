@@ -20,3 +20,6 @@ public class Main {
     }
 }
 // iterator interface has three methods
+/*
+1. hasNext() returns true if iterator has more elements
+ */
