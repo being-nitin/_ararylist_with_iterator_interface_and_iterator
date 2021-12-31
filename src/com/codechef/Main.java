@@ -19,3 +19,4 @@ public class Main {
     }
     }
 }
+// iterator interface has three methods
